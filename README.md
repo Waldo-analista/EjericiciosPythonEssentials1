@@ -1,0 +1,1 @@
+Este repositorio contiene los ejercicios más relevantes del curso Python Essentials 1 dado por CISCO. Ejercicios donde se practican los conceptos y se desafia al estudiante a implementar sus propios programas.
